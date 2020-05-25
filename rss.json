@@ -4,7 +4,7 @@
 <title>Feed Subscriptions</title>
 </head>
 <body>
-      <outline text="skyey" title="skyey" type="rss" 
+      <outline text="奔跑中的奶酪" title="奔跑中的奶酪" type="rss" 
             xmlUrl="http://www.runningcheese.com/feed" htmlUrl="https://www.runningcheese.com"/>
   <outline title="娱乐搞笑" text="娱乐搞笑">
       <outline text="瞎扯 - 知乎日报·合集" title="瞎扯 - 知乎日报·合集" type="rss" 
@@ -13,8 +13,6 @@
             xmlUrl="https://www.qiushibaike.com/hot/rss" htmlUrl="http://www.qiushibaike.com/"/>
       <outline text="青年图摘" title="青年图摘" type="rss" 
             xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="https://qingniantuzhai.com/"/>
-      <outline text="博海拾贝 – 博海拾贝" title="博海拾贝 – 博海拾贝" type="rss" 
-            xmlUrl="https://bohaishibei.com/post/category/main/feed/" htmlUrl="https://bh.sb"/>
   </outline>
   <outline title="英语学习" text="英语学习">
       <outline text="FT中文网 - 双语阅读" title="FT中文网 - 双语阅读" type="rss" 
@@ -27,12 +25,8 @@
             xmlUrl="http://www.i21st.cn/rss/story.xml" htmlUrl="http://www.i21st.cn/"/>
       <outline text="沪江英语 - 知乎专栏" title="沪江英语 - 知乎专栏" type="rss" 
             xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/hjenglish" htmlUrl="https://zhuanlan.zhihu.com/hjenglish"/>
-      <outline text="沪江英语:英语学习门户" title="沪江英语:英语学习门户" type="rss" 
-            xmlUrl="http://www.hjenglish.com/new/rss/"/>
   </outline>
   <outline title="软件应用" text="软件应用">
-      <outline text="发现小众" title="发现小众" type="rss" 
-            xmlUrl="https://faxian.appinn.com/feed"/>
       <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" 
             xmlUrl="https://free.com.tw/feed/" htmlUrl="https://free.com.tw"/>
       <outline text="大眼仔旭" title="大眼仔旭" type="rss" 
@@ -44,7 +38,7 @@
       <outline text="iPc.me" title="iPc.me" type="rss" 
             xmlUrl="http://feed.ipc.me/" htmlUrl="https://www.ipcfun.com"/>
       <outline text="最美应用" title="最美应用" type="rss" 
-            xmlUrl="http://zuimeia.com/feed/" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=netease"/>
+            xmlUrl="http://zuimeia.com/feed/" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=toutiao"/>
       <outline text="异次元软件世界" title="异次元软件世界" type="rss" 
             xmlUrl="http://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com"/>
       <outline text="少数派" title="少数派" type="rss" 
@@ -52,7 +46,9 @@
       <outline text="反斗软件 » 反斗软件" title="反斗软件 » 反斗软件" type="rss" 
             xmlUrl="http://www.apprcn.com/feed" htmlUrl="http://www.apprcn.com"/>
       <outline text="小众软件" title="小众软件" type="rss" 
-            xmlUrl="http://feeds.feedburner.com/appinncom"/>
+            xmlUrl="http://feeds.feedburner.com/appinncom" htmlUrl="https://www.appinn.com"/>
+      <outline text="蓝点网" title="蓝点网" type="rss" 
+            xmlUrl="https://www.landiannews.com//feed" htmlUrl="https://www.landiannews.com"/>
   </outline>
   <outline title="生活养成" text="生活养成">
       <outline text="直男门诊 - 知乎专栏" title="直男门诊 - 知乎专栏" type="rss" 
@@ -75,8 +71,6 @@
             xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/jennyyy" htmlUrl="https://zhuanlan.zhihu.com/jennyyy"/>
       <outline text="How to of the Day" title="How to of the Day" type="rss" 
             xmlUrl="http://www.wikihow.com/feed.rss" htmlUrl="https://www.wikihow.com/Main-Page"/>
-      <outline text="原来你可以这样瘦 - 知乎专栏" title="原来你可以这样瘦 - 知乎专栏" type="rss" 
-            xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/yesyoucan"/>
       <outline text="健身自习室 - 知乎专栏" title="健身自习室 - 知乎专栏" type="rss" 
             xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/jszxs" htmlUrl="https://zhuanlan.zhihu.com/jszxs"/>
       <outline text="最美的国度 - 知乎专栏" title="最美的国度 - 知乎专栏" type="rss" 
@@ -117,8 +111,6 @@
             xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn"/>
       <outline text="微奇生活" title="微奇生活" type="rss" 
             xmlUrl="http://www.vikilife.com/feed" htmlUrl="http://www.vikilife.com"/>
-      <outline text="读书笔记" title="读书笔记" type="rss" 
-            xmlUrl="http://www.write.org.cn/feed"/>
       <outline text="佳人" title="佳人" type="rss" 
             xmlUrl="http://jiaren.org/feed/" htmlUrl="http://jiaren.org"/>
       <outline text="战隼的学习探索" title="战隼的学习探索" type="rss" 
@@ -145,8 +137,6 @@
             xmlUrl="http://www.nationalgeographic.com.cn/index.php?m=content&amp;c=feed" htmlUrl="http://www.ngchina.com.cn"/>
       <outline text="优设-UISDC" title="优设-UISDC" type="rss" 
             xmlUrl="http://www.uisdc.com/feed" htmlUrl="https://www.uisdc.com"/>
-      <outline text="National Geographic News" title="National Geographic News" type="rss" 
-            xmlUrl="http://news.nationalgeographic.com/index.rss"/>
       <outline text="NASA Image of the Day" title="NASA Image of the Day" type="rss" 
             xmlUrl="https://www.nasa.gov/rss/dyn/image_of_the_day.rss" htmlUrl="http://www.nasa.gov/"/>
       <outline text="腾讯CDC" title="腾讯CDC" type="rss" 
@@ -165,8 +155,6 @@
             xmlUrl="http://www.lssdjt.com/rss.xml"/>
       <outline text="煎蛋" title="煎蛋" type="rss" 
             xmlUrl="http://jandan.net/feed" htmlUrl="http://jandan.net"/>
-      <outline text="博客 - 伯乐在线" title="博客 - 伯乐在线" type="rss" 
-            xmlUrl="http://blog.jobbole.com/feed/"/>
       <outline text="199IT互联网TMT数据" title="199IT互联网TMT数据" type="rss" 
             xmlUrl="http://www.199it.com/feed" htmlUrl="https://www.199it.com"/>
       <outline text="驱动之家新闻_最新新闻" title="驱动之家新闻_最新新闻" type="rss" 
@@ -178,7 +166,7 @@
       <outline text="IT之家" title="IT之家" type="rss" 
             xmlUrl="https://www.ithome.com/rss/" htmlUrl="http://www.ithome.com/"/>
       <outline text="FT中文网一周十大热门文章" title="FT中文网一周十大热门文章" type="rss" 
-            xmlUrl="http://www.ftchinese.com/rss/hotstoryby7day"/>
+            xmlUrl="http://www.ftchinese.com/rss/hotstoryby7day" htmlUrl="http://www.ftchinese.com/"/>
       <outline text="V2EX - 创意" title="V2EX - 创意" type="rss" 
             xmlUrl="https://www.v2ex.com/feed/tab/creative.xml" htmlUrl="https://www.v2ex.com/"/>
       <outline text="抽屉新热榜" title="抽屉新热榜" type="rss" 
@@ -201,10 +189,6 @@
             xmlUrl="http://www.zdfans.com/feed"/>
       <outline text="cnBeta.COM业界资讯" title="cnBeta.COM业界资讯" type="rss" 
             xmlUrl="http://rss.cnbeta.com/rss" htmlUrl="https://www.cnbeta.com"/>
-      <outline text="蓝点网" title="蓝点网" type="rss" 
-            xmlUrl="https://www.landiannews.com/feed" htmlUrl="https://www.landiannews.com"/>
-      <outline text="精品绿色便携软件" title="精品绿色便携软件" type="rss" 
-            xmlUrl="https://www.portablesoft.org/feed/" htmlUrl="https://www.portablesoft.org"/>
       <outline text="亚马跌" title="亚马跌" type="rss" 
             xmlUrl="https://www.ymdie.com/feed" htmlUrl="https://www.ymdie.com"/>
       <outline text="知乎每日精选" title="知乎每日精选" type="rss" 
@@ -222,7 +206,7 @@
       <outline text="知彼而知己" title="知彼而知己" type="rss" 
             xmlUrl="http://www.heu8.com/feed"/>
       <outline text="cnBeta.COM业界资讯" title="cnBeta.COM业界资讯" type="rss" 
-            xmlUrl="http://feeds2.feedburner.com/cnbeta_full"/>
+            xmlUrl="http://feeds2.feedburner.com/cnbeta_full" htmlUrl="http://www.cnbeta.com"/>
       <outline text="爱玩电脑" title="爱玩电脑" type="rss" 
             xmlUrl="http://www.iwanpc.com/feed"/>
   </outline>
@@ -234,19 +218,13 @@
       <outline text="利器" title="利器" type="rss" 
             xmlUrl="http://liqi.io/feed/" htmlUrl="https://liqi.io"/>
       <outline text="㊣軟體玩家" title="㊣軟體玩家" type="rss" 
-            xmlUrl="http://feeds.feedburner.com/quicktop"/>
+            xmlUrl="http://feeds.feedburner.com/quicktop" htmlUrl="https://pcrookie.com"/>
       <outline text="重灌狂人" title="重灌狂人" type="rss" 
-            xmlUrl="http://feeds.feedburner.com/briian"/>
+            xmlUrl="http://feeds.feedburner.com/briian" htmlUrl="https://briian.com"/>
       <outline text="阿榮福利味 - 免費軟體下載" title="阿榮福利味 - 免費軟體下載" type="rss" 
-            xmlUrl="http://azo-freeware.blogspot.com/feeds/posts/default"/>
-      <outline text="精品绿色便携软件" title="精品绿色便携软件" type="rss" 
-            xmlUrl="http://www.portablesoft.org/feed/" htmlUrl="https://www.portablesoft.org"/>
-      <outline text="绿软分享吧" title="绿软分享吧" type="rss" 
-            xmlUrl="http://www.lrshare.com/feed"/>
+            xmlUrl="http://azo-freeware.blogspot.com/feeds/posts/default" htmlUrl="https://www.azofreeware.com/"/>
       <outline text="善用佳软" title="善用佳软" type="rss" 
             xmlUrl="https://xbeta.info/feed" htmlUrl="https://xbeta.info"/>
-      <outline text="少数派" title="少数派" type="rss" 
-            xmlUrl="http://sspai.com/feed" htmlUrl="https://sspai.com"/>
   </outline>
 </body>
 </opml>
